@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AreebDastgeer
-- 🌱 I’m currently pursuing BS(AI) degree from FAST-NUCES                                                                                                                                            
+- 🌱 I’m currently pursuing BS(AI) degree.                                                                                                                                          
   
   
   
