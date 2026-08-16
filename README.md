@@ -92,18 +92,17 @@ AI-powered developer onboarding assistant that analyzes GitHub repositories.
 <table>
 <tr>
 <td align="center">
+<a href="https://docs.python.org/3/">
 <img src="https://skillicons.dev/icons?i=python" width="45"><br>
+</a>
 <b>Python</b>
 </td>
 
 <td align="center">
+<a href="https://docs.pytorch.org/docs/2.13/index.html">
 <img src="https://skillicons.dev/icons?i=pytorch" width="45"><br>
+</a>
 <b>PyTorch</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=librosa" width="45"><br>
-<b>Librosa</b>
 </td>
 
 </tr>
@@ -113,22 +112,30 @@ AI-powered developer onboarding assistant that analyzes GitHub repositories.
 <table>
 <tr>
 <td align="center">
+<a href="https://react.dev/learn">
 <img src="https://skillicons.dev/icons?i=react" width="45"><br>
+</a>
 <b>React</b>
 </td>
 
 <td align="center">
+<a href="https://nextjs.org/docs">
 <img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>
+</a>
 <b>Next.js</b>
 </td>
 
 <td align="center">
+<a href="https://nodejs.org/learn/getting-started/introduction-to-nodejs">
 <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>
+</a>
 <b>Node.js</b>
 </td>
 
 <td align="center">
+<a href="https://fastapi.tiangolo.com/">
 <img src="https://skillicons.dev/icons?i=fastapi" width="45"><br>
+</a>
 <b>FastAPI</b>
 </td>
 
@@ -140,17 +147,23 @@ AI-powered developer onboarding assistant that analyzes GitHub repositories.
 <table>
 <tr>
 <td align="center">
+<a href="https://git-scm.com/docs/git">
 <img src="https://skillicons.dev/icons?i=git" width="45" ><br>
+</a>
 <b>Git</b>
 </td>
 
 <td align="center">
+<a href="https://docs.github.com/en">
 <img src="https://skillicons.dev/icons?i=github" width="45"><br>
+</a>
 <b>GitHub</b>
 </td>
 
 <td align="center">
+<a href="https://docs.docker.com/">
 <img src="https://skillicons.dev/icons?i=docker" width="45"><br>
+</a>
 <b>Docker</b>
 </td>
 
