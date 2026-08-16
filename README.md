@@ -5,9 +5,39 @@
 
 ### AI Engineer · GenAI · Agentic AI
 
-Building intelligent systems that turn AI into useful products.
+#### Building intelligent systems that turn AI into useful products.
 
-[LinkedIn](https://www.linkedin.com/in/areeb-dastgeer2026/) · [Email](areebdastgeer.link@gmail.com) · [GitHub](https://github.com/AreebDastgeer)
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/areeb-dastgeer2026/">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="38"><br>
+
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:areebdastgeer.link@gmail.com">
+<img src="https://www.svgrepo.com/show/353812/google-gmail.svg" width="38"><br>
+
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/AreebDastgeer">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="38"><br>
+
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 </div>
 
@@ -59,21 +89,73 @@ AI-powered developer onboarding assistant that analyzes GitHub repositories.
 
 ### AI / ML
 
-![Python](https://skillicons.dev/icons?i=python)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="45"><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"><br>
+<b>PyTorch</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=librosa" width="45"><br>
+<b>Librosa</b>
+</td>
+
+</tr>
+</table>
 
 ### Web / Backend
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"><br>
+<b>React</b>
+</td>
 
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>
+<b>Next.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"><br>
+<b>FastAPI</b>
+</td>
+
+</tr>
+</table>
 
 ### Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="45" ><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="45"><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="45"><br>
+<b>Docker</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -123,8 +205,13 @@ Production AI Systems
 </picture>
 
 </div>
-BUILD → BREAK → LEARN → BUILD BETTER
 
-Open to opportunities in AI Engineering, Generative AI & Agentic AI.
+<div align="center">
+
+### **BUILD → BREAK → LEARN → BUILD BETTER**
+
+___
+### Open to opportunities in **AI Engineering, Generative AI & Agentic AI.**
+___
 
 </div>
