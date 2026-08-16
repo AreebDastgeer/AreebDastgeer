@@ -107,14 +107,22 @@ Production AI Systems
 
 ## `$ contribution_activity`
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/AreebDastgeer/AreebDastgeer/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
+<div align="center"> -->
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AreebDastgeer/AreebDastgeer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AreebDastgeer/AreebDastgeer/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AreebDastgeer/AreebDastgeer/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 BUILD → BREAK → LEARN → BUILD BETTER
 
 Open to opportunities in AI Engineering, Generative AI & Agentic AI.
